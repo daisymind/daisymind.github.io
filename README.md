@@ -1,3 +1,2 @@
 ### daisymind.github.io
-for Apple App Site 
-:privacy policy information
+for Apple App Site :privacy policy information, html
